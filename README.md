@@ -37,5 +37,6 @@ Questo progetto è stato sviluppato in collaborazione con:
 * [Anapaxx](https://github.com/Anapaxx)
 
 ## Scarica la relazione completa: 
+Nel caso il file risulti non visualizzabile scaricarlo in locale da:
 - Relazione: [ML_su_Emissioni_Lombardia.ipynb](https://github.com/GbriRci/ML_on_Emissioni_Lombardia/blob/main/ML_su_Emissioni_Lombardia.ipynb)
 - Dataset: [Emissioni.xls](https://github.com/GbriRci/ML_on_Emissioni_Lombardia/blob/main/Emissioni.xls)
